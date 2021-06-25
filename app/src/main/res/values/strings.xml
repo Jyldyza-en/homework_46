@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework_46</string>
+    <string name="btn_del">Delete</string>
+    <string name="btn_add">Save</string>
+    <string name="editText">Type here</string>
+    <string name="textview">TextView</string>
+    <string name="textDefault">default name</string>
+    <string name="hintEditText">Type here</string>
+</resources>
